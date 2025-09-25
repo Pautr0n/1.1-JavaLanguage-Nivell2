@@ -1,2 +1,5 @@
-public interface Camera {
+interface Camera {
+
+    void takePicture();
+
 }

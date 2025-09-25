@@ -1,2 +1,5 @@
-public interface Clock {
+interface Clock {
+
+    void ringAlarm();
+
 }
